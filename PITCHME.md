@@ -195,6 +195,9 @@ Built with an IoT Device
 - Lithnet MIM Service REST API
 @ulend
 
+---?image=assets/images/Architecture.png&size=75% 100%&color=#ffffff
+@title[Architecture Overview]
+
 ---?image=assets/images/Architecture.png&position=right&size=55% 100%&color=#ffffff
 @title[Architecture 1]
 @snap[west commentary]
