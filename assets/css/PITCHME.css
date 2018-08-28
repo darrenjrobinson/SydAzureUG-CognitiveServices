@@ -1,0 +1,53 @@
+/*
+ * GitPitch Custom CSS Styling
+ *
+ * For details, visit Wiki:
+ * https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
+ */
+
+#gp-logo img {
+  max-height: 2.5em;
+  max-width: none;
+}
+
+.gold {
+  color: #e49436;
+}
+
+.reveal pre {
+  width: 100%;
+  box-shadow : none;
+}
+
+.reveal pre code {
+  font-size: 1.2em;
+  line-height: 1.2;
+  max-height: 55vh !important;
+  border-radius: 10px;
+}
+
+.commentary {
+  color: black;
+  width: 35%;
+  font-size: 0.6em !important;
+  line-height: 2.25em !important;
+}
+
+.commentary-verbose {
+  color: black;
+  width: 45%;
+  font-size: 0.6em !important;
+  line-height: 2.1em !important;
+}
+
+.commentary-slim {
+  color: black;
+  width: 25%;
+  font-size: 0.6em !important;
+  line-height: 2.25em !important;
+}
+
+.reveal ul li:not(:last-child) {
+    margin-bottom: 0.2em;
+}
+
